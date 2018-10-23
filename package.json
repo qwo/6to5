@@ -37,7 +37,7 @@
     "acorn-6to5": "0.11.1-25",
     "ast-types": "~0.6.1",
     "chalk": "^0.5.1",
-    "chokidar": "0.12.6",
+    "chokidar": "1.1.0",
     "commander": "2.6.0",
     "core-js": "^0.4.9",
     "debug": "^2.1.1",
